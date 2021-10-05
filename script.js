@@ -43,7 +43,6 @@ async function display(){
          <b>Release Date:</b> ${date}<br>
          <b>Display:</b> ${display}<br>
          </p>
-         <br>
          <a href="#" class="btn btn-block btn-outline-success ">Buy</a>`
         
      
